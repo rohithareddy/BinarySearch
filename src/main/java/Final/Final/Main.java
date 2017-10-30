@@ -85,7 +85,7 @@ public class Main  {
 		}
 		catch( ParseException e ) {
 		    System.out.println("Unexpected exception:" + e.getMessage());
-		    System.out.println("Unable to parse command line. Please try again.");
+		    System.out.println("Unable to parse command line.");
 		}
 		
 	}
